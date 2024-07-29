@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ernst M.
 - 👀 I’m interested in Gaming/Coding/Sports
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL, Powershell, Bash.
 
 
 <!---
